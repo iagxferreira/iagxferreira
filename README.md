@@ -1,5 +1,5 @@
 # Hi, my name is Iago Ferreira
-A currently front-end developer who is in love with .NET technologies and its community.
+A currently systems analyst intern who is in love with .NET technologies and its community.
 
 ## About me
 
