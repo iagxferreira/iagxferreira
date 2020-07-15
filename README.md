@@ -1,4 +1,4 @@
-# Hi, my name is Iago Ferreira
+# Hi, my name is Iago
 A currently systems analyst intern who is in love with .NET technologies and its community.
 
 ## About me
