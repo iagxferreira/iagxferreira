@@ -3,6 +3,10 @@ A currently systems analyst intern who is in love with .NET technologies and its
 
 ## About me
 
+<a href="https://dev.to/iagxferreira">
+  <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Iago Ferreira's DEV Profile" height="30" width="30">
+</a>
+
 I've started to learn how to program by myself when I was 16 years old
 since then i was looking for something that interested me and helped me get some money.
 Python was my first language and this is in a special place in my heart
