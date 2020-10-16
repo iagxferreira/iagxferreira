@@ -1,5 +1,5 @@
 # Hi, my name is Iago
-A currently systems analyst intern who is in love with .NET technologies and its community.
+A currently systems analyst intern who is in love with Javascript technologies and its community.
 
 ## About me
 
@@ -14,12 +14,12 @@ Python was my first language and it is in a special place in my heart
 
 ### I'm currently 
 - 🔭 Working as Systems Analyst Intern
-- 🌱 Learning TDD, Docker, C# and .NET Core
-- 🧐 Looking for an entry level position with the C# or Javascript stack.
+- 🌱 Learning TDD, Docker, React, React Native, Typescript and NodeJS
+- 🧐 Looking for an entry level position with the Javascript stack.
 ###
 
 - 💬 Ask me about creating hobbies, machine learning processes, data analysis or mental health.
-- ⚡ Technologies: .NET, Databases(PostgreSQL, MySQL and MongoDB), React and Node.
+- ⚡ Technologies: Typescript, Databases(PostgreSQL, MySQL and MongoDB), React/ReactNative and Node.
 
 ## How to reach me 📫
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)](https://www.linkedin.com/in/iagxferreira/)
