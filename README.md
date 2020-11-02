@@ -1,5 +1,5 @@
 # Hi, my name is Iago
-A currently systems analyst intern who is in love with Javascript technologies and its community.
+A currently backend developer intern who is in love with Javascript technologies and its community.
 
 ## About me
 
