@@ -1,4 +1,5 @@
 # Hi, my name is Iago
+
 A currently backend developer intern who is in love with Javascript technologies and its community.
 
 ## About me
@@ -13,15 +14,15 @@ Athough I've already found my path I'm allways up to new opportunities.
 Python was my first language and it is in a special place in my heart
 
 ### I'm currently 
-- 🔭 Working as Systems Analyst Intern
-- 🌱 Learning TDD, Docker, React, React Native, Typescript and NodeJS
-- 🧐 Looking for an entry level position with the Javascript stack.
-###
 
+- 🔭 Working as NodeJS Backend Intern with MERN Stack
+- 🌱 Learning TDD, Typescript, NodeJS, Docker, React and React Nativ. 
+- 🧐 Looking for an entry level position with the Javascript stack.
 - 💬 Ask me about creating hobbies, machine learning processes, data analysis or mental health.
-- ⚡ Technologies: Typescript, Databases(PostgreSQL, MySQL and MongoDB), React/ReactNative and Node.
+- ⚡ Technologies: Typescript, Databases(PostgreSQL, MySQL, Kafka, Redis and MongoDB), React/ReactNative and Node.
 
 ## How to reach me 📫
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)](https://www.linkedin.com/in/iagxferreira/)
 [![Outlook Badge](https://img.shields.io/badge/-eMail-blue?style=flat-square&logo=Mail&logoColor=white&link=mailto:iago-ferreira@outlook.com)](mailto:iago-ferreira@outlook.com)
 [![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@iagxferreira)](https://medium.com/@iagxferreira)
