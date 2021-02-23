@@ -1,6 +1,6 @@
 # Hi, my name is Iago
 
-A currently backend developer intern who is in love with Javascript technologies and its community.
+A currently backend developer who is in love with Javascript technologies and its community.
 
 ## About me
 
@@ -15,11 +15,11 @@ Python was my first language and it is in a special place in my heart
 
 ### I'm currently 
 
-- 🔭 Working as NodeJS Backend Intern with MERN Stack
-- 🌱 Learning TDD, Typescript, NodeJS, Docker, React and React Nativ. 
-- 🧐 Looking for an entry level position with the Javascript stack.
+- 🔭 Working as NodeJS Backend Junior with MERN Stack.
+- 🌱 Learning TDD, Typescript, NodeJS, NestJS, Docker, React and React Native. 
+- 🧐 Looking for an Tech lead position with the Javascript stack.
 - 💬 Ask me about creating hobbies, machine learning processes, data analysis or mental health.
-- ⚡ Technologies: Typescript, Databases(PostgreSQL, MySQL, Kafka, Redis and MongoDB), React/ReactNative and Node.
+- ⚡ Technologies: Typescript, Databases (PostgreSQL, MySQL and MongoDB), Message Brokers (Kafka, RabbitMQ, Redis), React/React Native and Node/Deno.
 
 ## How to reach me 📫
 
