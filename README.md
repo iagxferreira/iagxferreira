@@ -10,9 +10,9 @@ Although I've already found my path, and I'm always up to new opportunities.
 
 ### I'm currently
 
-- 🔭 Working as Mid-Level Software Engineer with Serverless and Microservices architectures.
+- 🔭 Working as Senior System Analyst with microservices architecture.
 - 🌱 Learning and searching about Design Patterns, TDD, Database Design and Scalability.
-- 🧐 Looking for a Senior Software Engineer position with Javascript or Typescript, MongoDB and Azure or AWS cloud service.
+- 🧐 Looking for a international Senior Software Engineer role with Javascript or Typescript, Postgres and AWS cloud service.
 - 💬 Ask me about hobbies, clean code, clean architecture, professional development or mental health.
 - ⚡ Technologies: Typescript, Databases ( PostgreSQL, MongoDB, Neo4j or Cassandra ), Message Brokers ( Kafka, RabbitMQ and Nats ), Cache with Redis and Node/Deno.
 
