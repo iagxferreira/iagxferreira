@@ -1,22 +1,25 @@
-# Hi, glad to see you around here!!
+# Hello, It's a pleasure to have you here!!
 
-I'm a developer who is in love with distributed services technologies and its community.
+I am a developer passionate about distributed service applications.
 
-## About me
+I started learning to program when I was 16. At that time I was looking for something that wouldn't bore me and would help me earn some money. Today I have found my sparky.
 
-I've started to learn how to program when I was 16 years old
-at that time I was looking for something that interested me and helped me to make some money.
-Although I've already found my path, and I'm always up to new opportunities.
+I am currently working as a Senior Systems Analyst at the largest investment bank in Latin America while trying to graduate from college.
 
-### I'm currently
+Lately I have been learning and researching about systems architecture, scalability, design patterns and team leadership.
 
-- 🔭 Working as Senior System Analyst with microservices architecture.
-- 🌱 Learning and searching about Design Patterns, TDD, Database Design and Scalability.
-- 🧐 Looking for a international Senior Software Engineer role with Javascript or Typescript, Postgres and AWS cloud service.
-- 💬 Ask me about hobbies, clean code, clean architecture, professional development or mental health.
-- ⚡ Technologies: Typescript, Databases ( PostgreSQL, MongoDB, Neo4j or Cassandra ), Message Brokers ( Kafka, RabbitMQ and Nats ), Cache with Redis and Node/Deno.
+I am always ready for new opportunities and challenges in my career. Talk to me about hobbies, clean code, clean architecture, professional development or mental health, I'm sure we'll have a good conversation.
 
-## How to reach me 📫
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
+  <img align="center" alt="Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" />
+    <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" />
+    <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nextjs/nextjs-original.svg" />
+</div>
+
+## Ways to find me 📫
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)
 ![Medium Badge](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=Medium&logoColor=white&link=https://medium.com/@iagxferreira)
