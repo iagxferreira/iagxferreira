@@ -8,7 +8,7 @@ I am currently working as a Senior Systems Analyst at the largest investment ban
 
 Lately I have been learning and researching about systems architecture, scalability, design patterns and team leadership.
 
-I am always ready for new opportunities and challenges in my career. Talk to me about hobbies, clean code, clean architecture, professional development or mental health, I'm sure we'll have a good conversation.
+I am always ready for new opportunities and challenges in my career. Talk to me about hobbies, artificial intelligence, professional development or mental health, I'm sure we'll have a good conversation.
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
@@ -17,6 +17,8 @@ I am always ready for new opportunities and challenges in my career. Talk to me 
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/postgresql/postgresql-original.svg" />
     <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/react/react-original.svg" />
     <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/csharp/csharp-original.svg" />
+    <img align="center" alt="Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@master/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 ## Ways to find me 📫
