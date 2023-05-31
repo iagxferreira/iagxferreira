@@ -13,7 +13,7 @@ I am always up to new opportunities and challenges in my career. Artificial inte
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
     <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" />
+    <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
 </div>
 
 ## Ways to find me 📫
