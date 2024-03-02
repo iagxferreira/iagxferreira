@@ -14,7 +14,6 @@ I am always up to new opportunities and challenges in my career. Artificial inte
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
     <img align="center" alt="TypeScript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
     <img align="center" alt=".NET" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-plain.svg" />
-    <img align="center" alt="Rust" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" />
 </div>
 
 ## Ways to find me 📫
