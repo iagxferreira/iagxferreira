@@ -4,11 +4,11 @@ I am a developer passionate about distributed service applications who learned h
 
 On that occasion, I was looking for something that wouldn’t bore me and would help me make some money and today I have found my sparky.
 
-Nowadays, I am working as a Senior Systems Analyst focused on financial services while trying to graduate from college.
+Nowadays, I am working as a Specialist Software Engineer focused on financial services.
 
-Lately, I have been learning and researching systems architecture, scalability, and design patterns to get through tech team leadership.
+Lately, I have been learning and researching systems architecture, scalability, and design patterns to get better at tech team leadership.
 
-I am always up to new opportunities and challenges in my career. Artificial intelligence, professional development, and mental health are such things I like to discuss. Send me an email and schedule a meeting. I’m sure we’ll have a friendly conversation.
+I am always up to new opportunities and challenges in my career. Artificial intelligence, professional development, self improvement and mental health are such things I like to discuss. Send me an email and schedule a meeting. I’m sure we’ll have a friendly conversation.
 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
