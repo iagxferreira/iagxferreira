@@ -1,14 +1,10 @@
 # Hello, It's a pleasure to have you here!!
 
-I am a developer passionate about distributed service applications who learned how to program when I was 16.
+I am a developer passionate about distributed service applications, with a journey that began at age 16 when I discovered programming as both an engaging challenge and a rewarding pursuit. Today, I work as a Specialist Software Engineer with aspirations of becoming an indie hacker.
 
-On that occasion, I was looking for something that wouldn’t bore me and would help me make some money and today I have found my sparky.
+My current focus is on deepening my knowledge of systems architecture, scalability, and design patterns, aiming to enhance both my technical expertise and my ability to lead tech teams effectively.
 
-Nowadays, I am working as a Specialist Software Engineer aiming to become a indie hacker.
-
-Lately, I have been learning and researching systems architecture, scalability, and design patterns to get better at tech team leadership.
-
-I am always up to new opportunities and challenges in my career. Competitive programming, professional development, self improvement and mental health are such things I like to discuss. Send me an email and schedule a meeting. I’m sure we’ll have a friendly conversation.
+I’m always open to new opportunities and challenges that foster growth. I enjoy discussing competitive programming, professional development, self-improvement, and mental health. Feel free to reach out to me via email to schedule a meeting—I’d be delighted to connect and have a meaningful conversation.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
     <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
