@@ -17,3 +17,8 @@ I’m always open to new opportunities and challenges that foster growth. I enjo
 
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)
 ![Github Badge](https://img.shields.io/github/followers/iagxferreira?style=social)
+
+## Profiles
+
+<a href="">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://leetcode.com/u/iagxferreira/">![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)</a>
