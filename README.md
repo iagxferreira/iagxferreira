@@ -22,4 +22,3 @@ I’m always open to new opportunities and challenges that foster growth. I enjo
 #### Social
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)
 ![Github Badge](https://img.shields.io/github/followers/iagxferreira?style=social)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white&link=https://www.x.com/iagxferreira)
