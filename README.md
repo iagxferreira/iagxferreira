@@ -22,3 +22,7 @@ I’m always open to new opportunities and challenges that foster growth. I enjo
 #### Social
 ![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iagxferreira/)
 ![Github Badge](https://img.shields.io/github/followers/iagxferreira?style=social)
+
+
+#### Stats
+[![Iago Ferreira profile views](https://u8views.com/api/v1/github/profiles/48165335/views/day-week-month-total-count.svg)](https://u8views.com/github/iagxferreira)
