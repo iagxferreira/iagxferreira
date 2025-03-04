@@ -9,7 +9,7 @@ I’m always open to new opportunities and challenges that foster growth. I enjo
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
     <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
     <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> 
-    <img align="center" alt="Swift" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" /> 
+    <img align="center" alt="Golang" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> 
     <img align="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
