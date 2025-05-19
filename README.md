@@ -1,15 +1,14 @@
 # Hello, It's a pleasure to have you here!!
 
-I am a developer passionate about distributed service applications, with a journey that began at age 16 when I discovered programming as both an engaging challenge and a rewarding pursuit. Today, I work as a Specialist Software Engineer with aspirations of becoming an indie hacker.
+I am a developer passionate about distributed service applications, with a journey that began at age 16 when I discovered programming as both an engaging challenge and a rewarding pursuit. Today, I work as a Senior Software Engineer with aspirations of becoming an indie hacker.
 
-My current focus is on deepening my knowledge of systems architecture, scalability, and design patterns, aiming to enhance both my technical expertise and my ability to lead tech teams effectively.
+My current focus is on deepening my knowledge of systems architecture, scalability and design patterns, aiming to enhance both my technical expertise and my ability to lead tech teams effectively.
 
-I’m always open to new opportunities and challenges that foster growth. I enjoy discussing competitive programming, professional development, self-improvement, and mental health. Feel free to reach out to me via email to schedule a meeting—I’d be delighted to connect and have a meaningful conversation.
+I’m always open to new opportunities and challenges that foster growth. I enjoy discussing competitive programming, software architecture, blockchain and system programming. Feel free to reach out to me via email to schedule a meeting—I’d be delighted to connect and have a meaningful conversation.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
-    <img align="center" alt="Java" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-    <img align="center" alt="Kotlin" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" /> 
-    <img align="center" alt="Golang" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> 
+    <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+    <img align="center" alt="Rust" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> 
     <img align="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 </div>
 
