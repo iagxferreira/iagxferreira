@@ -20,6 +20,7 @@ feel free to reach out to me via email to schedule a meeting
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
     <a href="https://www.linkedin.com/in/iagxferreira/">linkedin</a>
     <a href="https://www.iago-ferreira.com/blog">blog posts</a>
+    <a href="mailto:iago-ferreira@outlook.com">mail</a>
 </div>
 
 
