@@ -17,8 +17,11 @@ feel free to reach out to me via email to schedule a meeting
 <br/>
 
 ## Ways to find me 📫
-[linkedin](https://www.linkedin.com/in/iagxferreira/)  
-[blog posts](https://www.iago-ferreira.com/)
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: row">
+    <a href="https://www.linkedin.com/in/iagxferreira/">linkedin</a>
+    <a href="https://www.iago-ferreira.com/blog">blog posts</a>
+</div>
+
 
 ## Stats
 [![Iago Ferreira profile views](https://u8views.com/api/v1/github/profiles/48165335/views/day-week-month-total-count.svg)](https://u8views.com/github/iagxferreira)
