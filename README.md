@@ -2,7 +2,7 @@
 
 turning coffee into code since 2017  
 
-my current focus is on deepening my knowledge of systems architecture and scalability and design patterns.  
+my current focus is on deepening my knowledge of systems architecture, scalability and web3.  
 
 always open to new opportunities and challenges that foster growth.
 
