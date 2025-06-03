@@ -1,4 +1,4 @@
-# Hello, It's a pleasure to have you here!!
+# hi, thanks for visiting
 
 turning coffee into code since 2017  
 
@@ -26,3 +26,7 @@ feel free to reach out to me via email to schedule a meeting
 
 ## Stats
 [![Iago Ferreira profile views](https://u8views.com/api/v1/github/profiles/48165335/views/day-week-month-total-count.svg)](https://u8views.com/github/iagxferreira)
+
+<br/>
+he who fights with bugs should look to it that he himself does not become a bug.
+<br/>
