@@ -28,3 +28,9 @@ feel free to reach out to me via email to schedule a meeting
 <br/>
 he who fights with bugs should look to it that he himself does not become a bug.
 <br/>
+
+
+<center>
+    ![image](https://github.com/user-attachments/assets/d2c5c08a-b5eb-40a6-96f1-ff95b002a5d1)
+</center>
+
