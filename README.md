@@ -18,8 +18,8 @@ feel free to reach out to me via email to schedule a meeting
 ---
 <div>
     <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
+    <img align="center" alt="Go" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
     <img align="center" alt="Rust" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> 
-    <img align="center" alt="Go" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" /> 
     <img align="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
 <br/>
 
