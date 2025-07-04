@@ -16,13 +16,6 @@ feel free to reach out to me via email to schedule a meeting
 *he who fights with bugs should look to it that he himself does not become a bug.*
 
 ---
-<div>
-    <img align="center" alt="Typescript" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-    <img align="center" alt="Go" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" /> 
-    <img align="center" alt="Rust" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" /> 
-    <img align="center" alt="Amazon Web Services" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-<br/>
-
 <a href="https://www.linkedin.com/in/iagxferreira/">linkedin</a>
 <a href="https://www.iago-ferreira.com/blog">blog</a>
 <a href="mailto:iago-ferreira@outlook.com">mail</a>
