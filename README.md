@@ -1,5 +1,9 @@
 # hi, thanks for visiting
 
+
+[![committers.top badge](https://user-badge.committers.top/brazil/iagxferreira.svg)](https://user-badge.committers.top/brazil/iagxferreira)
+
+
 turning coffee into code since 2017  
 
 working on systems architecture, scalability and web3.  
